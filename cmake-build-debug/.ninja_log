@@ -1,0 +1,8 @@
+# ninja log v5
+67	895	7299164494464802	CMakeFiles/Photoshop.dir/main.cpp.obj	c0247878e6318036
+0	1884	7299164504356753	CMakeFiles/Photoshop.dir/Black&WhiteImage.cpp.obj	56c690c945f00d69
+3	3334	7299165191567345	CMakeFiles/Photoshop.dir/GrayImage.cpp.obj	595378a2c69922bc
+1	3165	7299166389291951	CMakeFiles/grayImage.dir/GrayImage.cpp.obj	e8e109cc5e4790b8
+3167	3788	7299166395501269	grayImage.exe	352502bd9486bbeb
+1	3116	7299171390532095	CMakeFiles/ColoredImage.dir/ColoredImage.cpp.obj	b06718bca5a1d86a
+3118	3961	7299171398953937	ColoredImage.exe	8c3fcc306214da18

@@ -1,0 +1,5 @@
+E:/githubRepos/Photoshop/cmake-build-debug/CMakeFiles/Photoshop.dir
+E:/githubRepos/Photoshop/cmake-build-debug/CMakeFiles/GrayImage.dir
+E:/githubRepos/Photoshop/cmake-build-debug/CMakeFiles/ColoredImage.dir
+E:/githubRepos/Photoshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/githubRepos/Photoshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

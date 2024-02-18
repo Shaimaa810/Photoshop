@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Photoshop",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ColoredImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ColoredImage-Debug-6e8170bbb3b6e43d8f06.json",
+					"name" : "ColoredImage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GrayImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GrayImage-Debug-c837c509763a86998944.json",
+					"name" : "GrayImage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Photoshop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Photoshop-Debug-ba9b1466a77fb6618f5e.json",
+					"name" : "Photoshop",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/githubRepos/Photoshop/cmake-build-debug",
+		"source" : "E:/githubRepos/Photoshop"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
